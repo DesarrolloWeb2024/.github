@@ -3,8 +3,11 @@
 
 
 ## 🌐 Redes sociales:
-Matias rios
+Matias rios: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matidesarrolla) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/matias-rios-87a86120) 
+
+
 
 
 
