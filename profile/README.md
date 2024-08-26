@@ -1,5 +1,4 @@
-# 💫 Bienvenidos a
-![Logo del Proyecto](sitioweb-ezequiel/imges/logo-desarolloWeb.png)
+# 💫 Bienvenidos a Desarrollo web
 ## 🏫 Universidad Nacional de José C. Paz
 
 🚀Bienvenidos al repositorio oficial de la materia Desarrollo Web de la ****Tecnicatura Universitaria en Comercio Electrónico****. Este espacio está destinado a alojar todos los proyectos, ejercicios y materiales de código que serán utilizados a lo largo del curso. Aquí aprenderás y practicarás con tecnologías esenciales en el desarrollo web moderno, incluyendo HTML, CSS, JavaScript y Node.js.
