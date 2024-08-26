@@ -4,8 +4,6 @@ Este es un proyecto básico para enseñar a los estudiantes los fundamentos de H
 
 ## Estructura del Proyecto
 
-El proyecto está compuesto por los siguientes archivos:
-
 - `index.html`: El archivo principal que contiene la estructura HTML del sitio web.
 - `styles.css`: El archivo CSS que define los estilos aplicados al sitio web.
 - `images/`: Carpeta que contiene las imágenes del logo de la universidad, la imagen del logo principal de la materia, y una foto de ejemplo.
