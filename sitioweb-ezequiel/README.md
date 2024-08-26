@@ -10,12 +10,9 @@ Este es un proyecto básico para enseñar a los estudiantes los fundamentos de H
 
 ## Cómo Usar
 
-1. Clona este repositorio en tu máquina local.
-2. Abre `index.html` en un editor de texto.
+1. Clona el repositorio.
+2. Abre `index.html` en un editor vscode.
 3. Edita la sección de "Información Personal" directamente en el código para agregar tu nombre, apellido, foto 4x4, y cualquier otra información adicional.
 4. Guarda los cambios y abre `index.html` en tu navegador para ver el sitio web con tu información.
 
-## Objetivo
-
-El objetivo de este proyecto es proporcionar a los estudiantes una base para entender la estructura basica con HTML y CSS, incluyendo cómo editar el código.
 
