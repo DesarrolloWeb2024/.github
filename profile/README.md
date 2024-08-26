@@ -1,11 +1,17 @@
-# 💫 Bienvenidos a Desarrollo web:
-## Tecnicatura Universitaria en Comercio electrónico 
-### Universidad Nacional de José C. Paz
+# 💫 Bienvenidos a Desarrollo web
+## 🏫 Universidad Nacional de José C. Paz
 
-🔭Bienvenidos al repositorio oficial de la materia Desarrollo Web. Aquí encontrarás los diferentes proyectos y ejercicios que se realizarán durante el curso. Los repositorios en esta carpeta están diseñados para facilitar el aprendizaje de las tecnologías clave utilizadas en el desarrollo web, incluyendo HTML, CSS, JavaScript, Node.js y más. 
+🚀Bienvenidos al repositorio oficial de la materia Desarrollo Web de la ****Tecnicatura Universitaria en Comercio Electrónico****. Este espacio está destinado a alojar todos los proyectos, ejercicios y materiales de código que serán utilizados a lo largo del curso. Aquí aprenderás y practicarás con tecnologías esenciales en el desarrollo web moderno, incluyendo HTML, CSS, JavaScript y Node.js.
+
+✅ Dentro de esta carpeta, encontrarás los siguientes recursos:
+
+- HTML: Archivos y ejemplos para aprender a crear la estructura básica de páginas web.
+- CSS: Recursos para la estilización y presentación visual de sitios web.
+- JavaScript: Ejercicios para manejar la lógica de programación y la interactividad en las páginas web.
+- Node.js: Proyectos orientados a entender el uso de JavaScript en el backend, permitiendo la creación de aplicaciones del lado del servidor.
 
 
-#### 🌐 Redes sociales:
+### 🌐 Redes sociales:
 Matias rios: 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matidesarrolla) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-rios-87a86120/) 
@@ -32,7 +38,8 @@ Débora Roldán:
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-## Hi there 👋
+
+------------
 
 [![logo unpaz](https://www.unpaz.edu.ar/sites/default/files/unpaz_logo_2020.png "logo paz")](https://www.unpaz.edu.ar/sites/default/files/unpaz_logo_2020.png "logo paz") 
 <!--
