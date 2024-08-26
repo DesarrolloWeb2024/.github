@@ -28,6 +28,7 @@ Ezequiel Igor:
 
 
 ## Hi there 👋
+[![logo paz](https://www.unpaz.edu.ar/sites/default/files/unpaz_logo_2020.png "logo paz")](https://www.unpaz.edu.ar/sites/default/files/unpaz_logo_2020.png "logo paz")
 
 <!--
 
