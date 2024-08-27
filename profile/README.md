@@ -2,19 +2,20 @@
 [![logo-desarrollo](https://github.com/igorezequiel22/Sitio-Web-HTML-CSS/blob/main/sitioweb-ezequiel/imges/logo-desarolloWeb.png?raw=true "logo-desarrollo")](https://github.com/igorezequiel22/Sitio-Web-HTML-CSS/blob/main/sitioweb-ezequiel/imges/logo-desarolloWeb.png?raw=true "logo-desarrollo")
 ## 🏫 Universidad Nacional de José C. Paz
 
-Bienvenidos al repositorio oficial de la materia Desarrollo Web de la ****Tecnicatura Universitaria en Comercio Electrónico****. Este espacio está destinado a alojar todos los proyectos, ejercicios y materiales de código que serán utilizados a lo largo del curso. Aquí aprenderás y practicarás con tecnologías esenciales en el desarrollo web moderno, incluyendo HTML, CSS, JavaScript y Node.js.
+Bienvenidos al repositorio oficial de la materia Desarrollo Web de la ****Tecnicatura Universitaria en Comercio Electrónico****. Este espacio está destinado a alojar todos los proyectos, ejercicios y materiales de código que serán utilizados a lo largo del curso. Aquí aprenderás y practicarás con tecnologías esenciales en el desarrollo web, incluyendo HTML, CSS, JavaScript y Node.js.
 
 
 #### Dentro de esta carpeta, encontrarás los siguientes recursos:
 
 
-<img src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" height="35" width="47" alt="html5 logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"> Archivos y ejemplos para aprender a crear la estructura básica de páginas web.
+<img src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" height="32" width="44" alt="html5 logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"> Archivos y ejemplos para aprender a crear la estructura básica de páginas web.
 
-<img src="https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" height="35" width="47" alt="css3 logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"> Recursos para la estilización y presentación visual de sitios web.
+<img src="https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" height="32" width="44" alt="css3 logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"> Recursos para la estilización y presentación visual de sitios web.
 
-<img src="https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" height="33" width="45" alt="javascript logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"> Ejercicios para manejar la lógica de programación y la interactividad en las páginas web.
 
-<img src="https://github.com/igorezequiel22/Sitio-web-con-Nodejs/blob/main/src/public/images/1724651291590.png?raw=true" height="36" width="36" alt="node.js logo" data-canonical-src="https://github.com/igorezequiel22/Sitio-web-con-Nodejs/blob/main/src/public/images/1724651291590.png?raw=true" style="max-width: 100%;">  Proyectos orientados a entender el uso de JavaScript en el backend, permitiendo la creación de aplicaciones del lado del servidor.
+<img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" height="42" width="41" alt="javascript logo" data-canonical-src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" style="max-width: 100%;"> Ejercicios para manejar la lógica de programación y la interactividad en las páginas web.
+
+<img src="https://hazelcast.com/wp-content/uploads/2021/12/node2.png" height="36" width="42" alt="node.js logo" data-canonical-src="https://hazelcast.com/wp-content/uploads/2021/12/node2.png" style="max-width: 100%;">  Proyectos orientados a entender el uso de JavaScript en el backend, permitiendo la creación de aplicaciones del lado del servidor.
 
 
 
@@ -50,11 +51,11 @@ Débora Roldán:
 
 ## 🔗 Links importantes
 
-<code>&lt;link&gt;</code>
+<code>&lt;link&gt;</code> [Campus Unpaz](https://campusvirtual.unpaz.edu.ar/course/view.php?id=17289&section=9#tabs-tree-start "campus unpaz")
 
-<code>&lt;link&gt;</code>
+<code>&lt;link&gt;</code> [Comandos Básicos para Github (Git)](https://imgv2-2-f.scribdassets.com/img/document/383529506/original/5e95e0c9e8/1717779687?v=1 "Comandos Básicos para Github (Git)")
 
-<code>&lt;link&gt;</code>
+<code>&lt;link&gt;</code> 
 
 ------------
 
