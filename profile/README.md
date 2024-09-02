@@ -59,8 +59,11 @@ Débora Roldán:
 
 ------------
 
-[![logo unpaz](https://www.unpaz.edu.ar/sites/default/files/unpaz_logo_2020.png "logo paz")](https://www.unpaz.edu.ar/sites/default/files/unpaz_logo_2020.png "logo paz") 
-<!--
+<p align="center">
+    <a href="https://www.unpaz.edu.ar/sites/default/files/unpaz_logo_2020.png" title="Logo UNPAZ">
+        <img src="https://www.unpaz.edu.ar/sites/default/files/unpaz_logo_2020.png" alt="Logo UNPAZ">
+    </a>
+</p>
 
 
 **Here are some ideas to get you started:**
