@@ -55,22 +55,12 @@ Débora Roldán:
 
 <code>&lt;link&gt;</code> [Comandos Básicos para Github (Git)](https://imgv2-2-f.scribdassets.com/img/document/383529506/original/5e95e0c9e8/1717779687?v=1 "Comandos Básicos para Github (Git)")
 
-<code>&lt;link&gt;</code> 
+
 
 ------------
 
 <p align="center">
-    <a href="https://www.unpaz.edu.ar/sites/default/files/unpaz_logo_2020.png" title="Logo UNPAZ">
         <img src="https://www.unpaz.edu.ar/sites/default/files/unpaz_logo_2020.png" alt="Logo UNPAZ">
     </a>
 </p>
 
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
