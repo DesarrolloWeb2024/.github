@@ -61,6 +61,5 @@ Débora Roldán:
 
 <p align="center">
         <img src="https://www.unpaz.edu.ar/sites/default/files/unpaz_logo_2020.png" alt="Logo UNPAZ">
-    </a>
 </p>
 
