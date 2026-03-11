@@ -55,7 +55,11 @@ Débora Roldán:
 
 <code>&lt;link&gt;</code> [Comandos Básicos para Github (Git)](https://imgv2-2-f.scribdassets.com/img/document/383529506/original/5e95e0c9e8/1717779687?v=1 "Comandos Básicos para Github (Git)")
 
-
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
 
 ------------
 
